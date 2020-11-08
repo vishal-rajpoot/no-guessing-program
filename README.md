@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to no. guessing program's Page
 
 You can use the [](https://github.com/vishal-rajpoot/no-guessing-program/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -11,9 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Simple no. guess program 
+## here no. is initialized before start the game.
+### 
 
 - Bulleted
 - List
